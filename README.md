@@ -1,8 +1,8 @@
 # NAOMI
 
-Code is written with PyTorch v0.4.1 (Python 3.6.5).
+Code for paper titled [NAOMI: Non-Autoregressive Multiresolution Sequence Imputation](https://arxiv.org/abs/1901.10946)
 
-Download the data from [here](https://drive.google.com/open?id=17Ov4nwshLbn13w8qLuH8LNvzXzMTcjJt) and put into `data/` folder.
+Code is written with PyTorch v0.4.1 (Python 3.6.5). Download the data from [here](https://drive.google.com/open?id=17Ov4nwshLbn13w8qLuH8LNvzXzMTcjJt) and put into `data/` folder.
 
 ## To train the model:
 
