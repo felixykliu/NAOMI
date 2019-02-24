@@ -2,7 +2,7 @@
 
 Code is written with PyTorch v0.4.1 (Python 3.6.5).
 
-Dataset is available from [STATS](https://www.stats.com/data-science/). Download the data from [here](https://drive.google.com/open?id=17Ov4nwshLbn13w8qLuH8LNvzXzMTcjJt) into the `data/` folder.
+Download the data from [here](https://drive.google.com/open?id=17Ov4nwshLbn13w8qLuH8LNvzXzMTcjJt) and put into the `data/` folder.
 
 ## To train the model:
 
