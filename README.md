@@ -1,6 +1,6 @@
 # NAOMI
 
-Code for paper titled [NAOMI: Non-Autoregressive Multiresolution Sequence Imputation](https://arxiv.org/abs/1901.10946)
+Code for NeurIPS 2020 paper titled [NAOMI: Non-Autoregressive Multiresolution Sequence Imputation](https://arxiv.org/abs/1901.10946)
 
 Code is written with PyTorch v0.4.1 (Python 3.6.5). Billiards data can be downloaded [here](https://drive.google.com/open?id=17Ov4nwshLbn13w8qLuH8LNvzXzMTcjJt), basketball data is available from [STATS](https://www.stats.com/data-science/).
 
@@ -36,3 +36,15 @@ First open visdom, then adjust hyperparameters in `train_model.sh` and run the s
 
 •	`--max_iter_num`: number of adversarial training iterations
 
+
+## Citation
+
+If you find this repository, e.g., the code and the datasets, useful in your research, please cite the following paper:
+```
+@inproceedings{liu2019naomi,
+  title={NAOMI: Non-Autoregressive Multiresolution Sequence Imputation},
+  author={Liu, Yukai and Yu, Rose and Zheng, Stephan and Zhan, Eric and Yue, Yisong},
+  booktitle={Advances in Neural Information Processing Systems(NeurIPS '19)},
+  year={2019}
+}
+```
